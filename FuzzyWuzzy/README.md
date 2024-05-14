@@ -1,0 +1,1 @@
+[PyPi](https://pypi.org/project/fuzzywuzzy/)
